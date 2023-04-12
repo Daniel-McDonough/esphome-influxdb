@@ -2,9 +2,12 @@
 Changes from Jepsson/esphome-influxdb:
 - Changed to InfluxDB2 API
 
+Changes from CalvinSchwartz/esphome-influxdb:
+- Added tagging
+
 ## Installation
 Add this repository as an submodule in your esphome custom_compontents;
-`git clone https://github.com/CalvinSchwartz/esphome-influxdb custom_components/influxdb2`
+`git clone https://github.com/Daniel-McDonough/esphome-influxdb.git custom_components/influxdb2`
 
 ## Usage
 
